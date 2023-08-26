@@ -1,1 +1,0 @@
-![Alt text](problem_6.png)
